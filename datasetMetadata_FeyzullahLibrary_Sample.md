@@ -2,7 +2,7 @@
 
 **Your contact information:** UCSD nshafir@ucsd.edu
 
-**Name of dataset:** Sample of the Endowed of the Library of Feyzullah Efendi c. 1700
+**Name of dataset:** Sample of books listed in the endowment of şeyhülislam Feyzullah Efendi c. 1700
 
 **Brief description:** Spreadsheet of information taken from the endowment deed of the madrasa of Feyzullah Efendi in Istanbul. Specifically looked at section of books. 
 
