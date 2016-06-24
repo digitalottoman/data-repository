@@ -25,9 +25,9 @@ If the data passes these reviews, it will be added to the repository and given a
 
 ## What metadata do you need to supply along with your dataset?
 
-- Your name
-- Your contact information
 - Name of dataset
+- Author
+- Author's contact information
 - Brief description (<10 words)
 - Extended description (1 paragraph)
 - Tags and keywords (indicating date range and geographic range, if possible)
