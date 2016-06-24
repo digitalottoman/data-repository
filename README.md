@@ -13,7 +13,7 @@ Your data will be evaluated for two things: format and usage rights.
 
 A collective of repository editors (Maxim Romanov, Will Hanley) will perform a format review. They will not evaluate the accuracy of the content of the dataset. Instead, they will determine if the data set is well formed (i.e. consistently formatted), and if the dictionary describing its terms is comprehensible.
 
-A collective of copyright editorsy (who?) will perform a basic evaluation of the dataset to determine if there might be some reason that it should _not_ be made public. [additional guidelines needed]
+A collective of copyright editors (Marcia Tucker, Elizabeth Bennett) will perform a basic evaluation of the dataset to determine if there might be some reason that it should _not_ be made public. [additional guidelines needed]
 
 If the data passes these reviews, it will be added to the repository and given a citation and doi, and entered under [what kind of?] open access license. [note: Existing infrastructure can be plugged into--dataverse has an existing citation scheme, for example]
 
