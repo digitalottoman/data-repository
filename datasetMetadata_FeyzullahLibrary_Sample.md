@@ -1,4 +1,4 @@
-Your name: Nir Shafir
+**Your name:** Nir Shafir
 
 Your contact information: UCSD nshafir@ucsd.edu
 
