@@ -1,7 +1,7 @@
 # Digital Ottoman data submission guidelines
 
 
-By submitting data to the repository, you agree that this will not be private data anymore. You give permission for the data to be processed towards certain ends, such as Pleiades reference. However, the repository will always make it clear that the datase was produced through your work, and will encourage and assist users to cite the data set properly.
+By submitting data to the repository, you agree that this will not be private data anymore. You give permission for the data to be processed towards certain ends, such as Pleiades reference. However, the repository will always make it clear that the datase was produced through your work, and will encourage and assist users to cite the data set properly (including using license such as CC BY-SA or CC BY-NC-SA.).
 
 Generally speaking, the repository accepts datasets of any kind and format which refer to any aspect or period or region of Ottoman history, broadly defined. The repository is particularly eager to host research datasets from scholars who have finished and published their work and are ready to share their raw data. 
 
